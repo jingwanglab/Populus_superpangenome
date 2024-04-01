@@ -1,0 +1,1 @@
+$python -m jcvi.graphics.synteny inv.blocks inv_gene.bed blocks.layout

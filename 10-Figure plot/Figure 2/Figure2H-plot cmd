@@ -1,0 +1,1 @@
+$python -m jcvi.graphics.synteny private_Pokor23334_genes.blocks private_Pokor23334_genes.bed blocks.layout

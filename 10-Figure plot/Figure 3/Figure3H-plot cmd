@@ -1,0 +1,1 @@
+$pyGenomeTracks --tracks track.ini --region LG07:18768498-18776739 --height 6 --width 6 --dpi 300 --outFileName Popse19349.pdf

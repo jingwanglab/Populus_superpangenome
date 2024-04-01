@@ -1,0 +1,13 @@
+# x,   y, rotation,   ha,     va,   color, ratio,            label
+0.5, 0.8,        0, left, center,       m,     0.9,       plas
+0.5, 0.7,        0, left, center, #fc8d62,     0.9,       psim
+0.5, 0.6,        0, left, center, #fc8d62,     0.9,       pkor
+0.5, 0.5,        0, left, center, #fc8d62,     0.9,       pade
+0.5, 0.4,        0, left, center, #fc8d62,     0.9,       pqio
+0.5, 0.3,        0, left, center, #fc8d62,     0.9,       palby
+# edges
+e, 0, 1
+e, 1, 2
+e, 2, 3
+e, 3, 4
+e, 4, 5
